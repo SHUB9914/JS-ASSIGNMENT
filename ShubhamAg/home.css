@@ -1,0 +1,53 @@
+
+.menu
+{
+background-color:black;
+height:58px;
+margin-top:-17px;
+
+
+}
+.menu ul
+{
+
+list-style:none;
+
+}
+.menu ul li
+{
+
+background-color:black;
+
+width:130px;
+height:55px;
+text-align:center;
+line-height:55px;
+float:left;
+position:relative;
+color:white;
+
+}
+
+.menu ul li a
+{
+text-decoration:none;
+color:white;
+display:block;
+
+}
+.menu ul li a:hover
+{
+background-color:orange;
+border-radius: 60px 4px 0 0;
+}
+.subfooter
+{
+
+background-color:Black;
+height:40px;
+color:White;
+margin-top:370px;
+
+}
+
+
